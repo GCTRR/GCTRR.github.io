@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: github_GCTRR # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -37,12 +37,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: GCTRR
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/GCTRR # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://cdn.discordapp.com/attachments/1230184217397170227/1230196601385914459/hahah.png?ex=663270dd&is=661ffbdd&hm=94902f074174e598e0260b1e698e9fd99694d037c556fb4dfe338f1a73052171&
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
